@@ -9,4 +9,5 @@ int main(int, char**){
     std::cout << "A lot of fun!\n";
     std::cout << "A lot of fun!\n";
     std::cout << "A lot of fun!\n";
+    std::cout << "New fitch 2 from dev1!\n";
 }
